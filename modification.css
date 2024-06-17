@@ -1,0 +1,30 @@
+
+    .order-form{
+        max-width: 500px;
+        margin: 1 auto;
+        background-color: blue;
+        padding: 30px;
+        border-radius: 3px;
+       box-shadow: 20px;
+    } 
+    nav ul{
+        display:flex ;
+        justify-content: space-between;
+        text-decoration: none;
+
+    }
+    nav ul li{
+        display:flex ;
+        justify-content: space-between;
+        text-decoration: none;
+
+    }
+    body{
+        background-image: url(assets/pizza.jpeg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .cart{
+        display: flex;
+        color: aliceblue;
+    }
